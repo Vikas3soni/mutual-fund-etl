@@ -1,7 +1,7 @@
 ## Mutual fund data load pipeline
 
 This repository has data load for a sample 'mutual fund type- 
-Axis Mutual Fund' but generic so it can applicable for all fund types.
+Axis Mutual Fund' but code base is generic, so it can applicable for all fund types.
 
 ## Design
 ![design.png](design.png)
