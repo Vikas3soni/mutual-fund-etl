@@ -29,7 +29,8 @@ Following is the structure -
 * incremental_load_spark.py - file for daily data ingestion, lookup with bq table to get last upload date (max date) and refer delta records to uplaod
 * requirement.txt - requirement to install
 * utils.py - file consist all utility function for the code
-* developement-notebook - for developer for intial code run through google colab.
+* developement-notebook - server_request.ipynb - for initial developement google notebook with output results for reference
+* spark_bq_fund.ipynb - spark developed code on colab notebook.
 
 ## artifacts for reference
 ### sample-data-snippet for db upload
